@@ -1,0 +1,387 @@
+*{
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+.links {
+    color: black;
+    position: relative;
+   margin-bottom: -65px;
+   margin-top: 50px;
+   margin-left: 840px;
+}
+.links a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 1.4em;
+    color: grey;
+    padding: 5px 15px;
+    border-radius: 100px;
+}
+.links a:hover{
+    background-color:#304D30;
+    color: #B6C4B6;
+    transition: 1.2s;
+}
+
+ #home{
+    color: white;
+
+ }
+.name1{
+    width: 183px;
+    height: 40px;
+   margin-top: -730px;
+    border: 1px;
+    margin-left: 130px;
+    color: white;
+    font-style: italic;
+}
+.name2{
+    width: 186px;
+    height: 38px;
+    margin-top: 200px;
+    font-size: 1.3em;
+    margin-left: 160px;
+    color: white;
+}
+.name3{
+   margin-top: -200px;
+  font-size: 2em;
+  margin-left: 10px;
+  color: white;
+}
+#nazri{
+    margin-top: -100px;
+    color: white;
+}
+.tit{
+    margin-top: 40px;
+}
+.name4{
+    width: 243px;   
+    margin-left: 160px;
+    color: white;
+}
+
+.tit a{
+    text-decoration: none;
+    margin-top: 30px;
+    width: 130px;
+    border: 1px;
+    border-style:solid lightblue;
+    border-radius: 5px;
+    background: var(--Color, linear-gradient(180deg, #15B9B9 0%, #3C1DFF 100%));
+    padding: 15px;
+    color: white;
+}
+.surat{
+    width: 513px;
+}
+.surat img{
+    width: 100%;
+    height: 800px;
+    margin-top: -38px ;
+    margin-left: 827px;
+    border: 1px;
+    color: white;
+ }
+ body{
+    background-color: black;
+ }
+ .client1{
+    width: 114px;
+    height: 41px;
+    margin-top: 250.32px;
+    margin-left: 200px;
+    font-size: 1.4em;
+    color: white;
+ }
+ .client2{
+    width: 112px;
+    height: 41px;
+    margin-top: 250.32px;
+    margin-left: 80px;
+    font-size: 1.4em;
+    color: white;
+ }
+ .client3{
+    width: 114px;
+    height: 41px;
+    margin-top: 250.32px;
+    margin-left: 80px;
+    font-size: 1.4em;
+    color: white;
+ }
+ .client4{
+    width: 114px;
+    height: 41px;
+    margin-top: 250.32px;
+    margin-left: 60px;
+    font-size: 1.4em;
+    color: white;
+ }
+.clients{
+    display: flex;
+    a{
+        text-decoration: none;
+        color: white;
+        font-size: 35px;
+        padding: 0px 15px;
+        border-radius: 10px;
+    }
+   
+}
+.clients a:hover{
+    background-color:#4C4B16;
+    color: #E7B10A;
+    transition: 1s;
+}
+.surat2 img{
+    width: 383px;
+    height: 542px;
+    margin-top: 120px;
+    margin-left: 141px;
+}
+.surat3 img{
+    width:480px;
+    height: 518px;
+    margin-top: -530px ;
+    margin-left: 180px;
+}
+.little1 h1{
+   text-align: center;
+   margin-left: 470px;
+   margin-top: -545px;
+   font-size: 120px;
+   color: white;
+}
+.little2 h1{
+    text-align: center;
+   margin-left: 720px;
+   margin-top: -120px;
+   font-size: 120px;
+   color: blue;
+}
+.little3 {
+    width: 520px;
+    height: 200px;
+    margin-left: 760px;
+    font-size: 1.3em;
+    margin-top: -25px;
+    color: white;
+}
+.skills h1{
+   
+    margin-top:-100px;
+    margin-left: 100px;
+    font-size: 3.5em;color: white;
+    
+    
+}
+.line h1{
+   margin-top: 60px;
+    margin-left: 110px;
+   border: 3px;
+   border-style: solid white;
+   width: 100px;
+   width: 160px;
+   height: 5px;
+   background-color:white;
+   color: white;
+}
+
+
+.html img{
+    width: 106px;
+    margin-top: -1px;
+    margin-left: 100px ;
+}
+.css img{
+    width: 105px;
+    margin-left: 100px ;
+}
+.js img{
+    width: 105px;
+    margin-left: 100px ;
+}
+.boot img{
+    width: 105px;
+    margin-left: 100px ;
+}
+.react img{
+    width: 105px;
+    margin-left: 100px ;
+}
+.programs{
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+  
+}
+.language{
+    margin-left: 100px;
+    border: 3px solid grey;
+    border-left: 1px;
+    border-top: 1px;
+    border-right: 1px;
+    margin-top: 150px;
+    width: 490px;
+    height: 65px;
+    font-size: 2em;
+    color: white;
+}
+
+.english h1{
+    margin-top: 45px;
+    margin-left: 105px;
+    margin-bottom: -15px;
+    color: white;
+}
+.english2 h1{
+    margin-top: 25px;
+    margin-left: 105px;
+    margin-bottom: 65px;
+    color: white;
+    
+}
+#is1{
+    font-size: 16px;
+    margin-left: 550px;
+    margin-bottom: 10px;
+}
+#is2{
+    font-size: 16px;
+    margin-left: 395px;
+   margin-top: -40px;
+   
+}
+
+
+
+ .fluent h4{
+    width: 488px;
+    height: 24px;
+    border: 3px solid blue;
+    background: linear-gradient(90deg, #3C1DFF 18.63%, #14C9C9 78.88%);
+
+
+    border-radius: 50px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.fluent2 h4{
+    width: 327px;
+    height: 24px;
+    border: 3px solid blue;
+    background: linear-gradient(90deg, #3C1DFF 18.63%, #14C9C9 78.88%);
+
+
+    border-radius: 50px;
+    margin-left: 100px;
+    margin-top: -55px;
+}
+
+.knowledge{
+    display: flex;
+    justify-content: space-between;
+}
+.english h6{
+    margin-top: -85px;
+    margin-left: 200px;
+    color: white;
+}
+.english2 h6{
+    margin-top: -75px;
+   margin-left:200px;
+   color: white;
+}
+
+.english i{
+    border-radius:150%;
+    width: 35px;
+    border: 3px solid blue;
+    background-color: blue;
+    padding: 15px;
+   margin-top: 30px;
+   margin-bottom: 100px;
+}
+ .english2 i{
+    border-radius:150%;
+    width: 35px;
+    border: 3px solid blue;
+    background-color: blue;
+    padding: 15px;
+
+}
+.language h1{
+    margin-left: -1px;
+    color: white;
+}
+.workmain, .workmain2{
+    display: flex;
+    justify-content:center;
+    padding: 7px;
+}
+.work1 img{
+    width: 600px;
+    padding: 5px;
+}
+.work2 img{
+    width: 600px;
+    padding: 5px;
+}
+.work3 img{
+    width: 600px;
+    padding: 5px;
+}
+.work4 img{
+    width: 600px;
+    margin-right: px;
+    padding: 5px;
+}
+h1{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    color: white;
+}
+.lastcon{
+    margin-top: 100px;
+}
+.titt{
+    text-align: center;
+}
+.titt a{
+    text-decoration: none;
+    width: 130px;
+    border: 1px;
+    border-style:solid lightblue;
+    border-radius: 5px;
+    background: var(--Color, linear-gradient(180deg, #15B9B9 0%, #3C1DFF 100%));
+    padding: 15px;
+    color: white;
+}
+.lastcon h1 {
+    text-align: center;
+    font-size: 3em;
+    margin: auto;
+    color: white;
+}
+.lastcon h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    height: 45px;
+    color: white;
+}
+.footer h1{
+    margin-bottom: 100px;
+    width: 100%;
+}
+h1{
+    font-size: 2.3em;
+    font-style:initial ;
+}
